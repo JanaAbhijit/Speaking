@@ -1,5 +1,7 @@
 # V-TAPP 2018 National Tech Fest in the Vellore Institute of Technology, AP (VIT - AP)
-Session Topic : Digital Reality Spectrums and Deep Dive into Mixed Reality Development
+
+# Session Topic 
+Digital Reality Spectrums and Deep Dive into Mixed Reality Development
 
 # Date
 4th March 2018 
@@ -16,12 +18,11 @@ Speaking/VIT University AP - Tech Fest/Digital Reality Spectrums and Deep Dive i
 6. References for further learning
 
 # Reference Video's 
-
-
 1. Windows Mixed Reality: An Evolution for Education - https://www.youtube.com/watch?v=7Xv8A9vqeBw
 
 2. Microsoft HoloLens: Developer Information - https://www.youtube.com/playlist?list=PLZCHH_4VqpRhwzNjMBHJOcfdMhYZzC0K2
 
-#Further Study & Reference
+# Further Study & Reference
+
 1. MR Design Documentation:  https://developer.microsoft.com/en-us/windows/mixed-reality/design
 2. MR Academy: https://developer.microsoft.com/en-us/windows/mixed-reality/academy 
