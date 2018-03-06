@@ -1,3 +1,4 @@
+
 # V-TAPP 2018 National Tech Fest in the Vellore Institute of Technology, AP (VIT - AP)
 
 # Session Topic 
@@ -12,10 +13,11 @@ Speaking/VIT University AP - Tech Fest/Digital Reality Spectrums and Deep Dive i
 # Topic Covered During the Session
 1. Understand Digital reality spectrums
 2. Virtual Reality(VR) /Augmented Reality(AR) / Mixed Reality(MR)
-3. Windows Mixed Reality & Microsoft HoloLens
-4. Building a Mixed Reality application with HoloLens
-5. Building connected scenarios with HoloLens
-6. References for further learning
+3. Add MR Toolkit to the Unity3D project. ( Removed it from the solution to keep it light weight)
+4. Windows Mixed Reality & Microsoft HoloLens
+5. Building a Mixed Reality application with HoloLens
+6. Building connected scenarios with HoloLens
+7. References for further learning
 
 # Running the Demo
 - Open the Unity Scene in Unity 3D 
@@ -35,3 +37,4 @@ Speaking/VIT University AP - Tech Fest/Digital Reality Spectrums and Deep Dive i
 1. MR Design Documentation:  https://developer.microsoft.com/en-us/windows/mixed-reality/design
 2. MR Academy: https://developer.microsoft.com/en-us/windows/mixed-reality/academy 
 3. Holographic App Development Using Microsoft HoloLens : https://abhijitjana.net/category/hololens/
+4. Book Hololens Blueprint : http://amzn.to/2w5ZUhw
