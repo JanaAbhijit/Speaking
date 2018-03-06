@@ -26,3 +26,4 @@ Speaking/VIT University AP - Tech Fest/Digital Reality Spectrums and Deep Dive i
 
 1. MR Design Documentation:  https://developer.microsoft.com/en-us/windows/mixed-reality/design
 2. MR Academy: https://developer.microsoft.com/en-us/windows/mixed-reality/academy 
+3. Holographic App Development Using Microsoft HoloLens : https://abhijitjana.net/category/hololens/
