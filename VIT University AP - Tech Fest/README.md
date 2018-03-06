@@ -4,7 +4,8 @@ Session Topic : Digital Reality Spectrums and Deep Dive into Mixed Reality Devel
 # Date
 4th March 2018 
 
-# Slides : https://github.com/JanaAbhijit/Speaking/blob/master/VIT%20University%20AP%20-%20Tech%20Fest
+# Slides
+Speaking/VIT University AP - Tech Fest/Digital Reality Spectrums and Deep Dive into Mixed Reality Development v1.0.pdf 
 
 # Topic Covered During the Session
 1. Understand Digital reality spectrums
