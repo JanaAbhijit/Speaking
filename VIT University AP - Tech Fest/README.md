@@ -17,6 +17,14 @@ Speaking/VIT University AP - Tech Fest/Digital Reality Spectrums and Deep Dive i
 5. Building connected scenarios with HoloLens
 6. References for further learning
 
+# Running the Demo
+- Open the Unity Scene in Unity 3D 
+- Configure the Project for VR , Setup Build setting for UWP, and Build Solution
+- Create Azure Resources for SQL Azure Storage
+- Update the DB Context for the API Project , then update the Connection String
+
+
+
 # Reference Video's 
 1. Windows Mixed Reality: An Evolution for Education - https://www.youtube.com/watch?v=7Xv8A9vqeBw
 
